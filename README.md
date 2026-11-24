@@ -25,6 +25,7 @@
     <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL (MySQL)" title="SQL (MySQL)" width="50" height="50"/>
   </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
 </p>
 
 <h4>Networking</h4>
